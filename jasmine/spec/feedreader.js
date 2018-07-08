@@ -119,6 +119,6 @@ $(function() {
          expect(document.querySelector('.entry')).not.toBeNull();
          done();
        });
+     });
 
-    });
 }());
