@@ -2,8 +2,6 @@
 
 by Eric Parsons
 
-GitHub Pages: [link](https://vowy.github.io/FEND-project4/.)
-
 # Overview
 
 This is the forth project for Udacity.com's Front End Developer Nano Degree [FEND] program.
